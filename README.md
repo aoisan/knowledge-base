@@ -1,6 +1,6 @@
 # Knowledge Base
 
-個人用の技術メモと設計メモをまとめたリポジトリ。  
+アプリケーション開発における技術選定・設計指針 
 内容は理解の進展に応じて更新・変更される可能性があります。
 
 ---
@@ -16,6 +16,15 @@
 ### 🔧 .NET
 
 - [開発基盤選定ガイドライン（OS → .NET → C# → UI → DB）](docs/dotnet/dotnet-guidelines.md)
+
+---
+
+### 🗄 Database
+
+#### PostgreSQL
+
+- [ロール設計（開発用）](docs/database/postgresql/postgresql-role-design.md)  
+PostgreSQLにおける開発環境向けのロール・権限設計
 
 ---
 
@@ -46,4 +55,4 @@
 
 ## License
 
-MIT License
+This project is licensed under the MIT License.
